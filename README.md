@@ -16,8 +16,8 @@ Use either qmake or QTCreator to compile this software. Tested on the Latest QT5
 ### Usage:
 
   0. IMPORTANT: Output from EQCluster must be edited: NO HEADERS, NO CENTERs (IDs = -1)
-  1. Load the file using the menu.
-  2. (Optional) Load the complete catalog in Zmap format.
+  1. Load the file using the menu.(Usually the CSV from EQCluster)
+  2. (Optional) Load the complete catalog in Zmap format. (Usually Icat.csv from MISD)
   3. Use the Categorize buttons (Categorize all scrolls through ALL and cannot be cancelled) to categorize between Swarm and Sequence.
   4. Press 'Save ALL PDF' to save EVERYTHING (A typo I know).
   
